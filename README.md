@@ -32,4 +32,12 @@ As part of this contract, we are initiating an original array on which we going 
 
 as you can see we have sorted array and unique array as part of the decoded output
 
+## Lab 2
 
+![Contract Code check ](https://github.com/mandeep9888/bcdv4028_lab1/blob/49f6bf5dde22903d20c3e4bfc10961f7c2e32bb3/contract_codecheck.png)
+
+As part of this contract, we are checking if address has code associated with it on not. If its a EOA there wont be any code associated with it, but we will have Code associated with contract address, As you can see we passed an contract address and function is return true.
+
+![EOA Code check ](https://github.com/mandeep9888/bcdv4028_lab1/blob/49f6bf5dde22903d20c3e4bfc10961f7c2e32bb3/EOA_codecheck.png)
+
+EOA address is passed and function is returning false in this case
