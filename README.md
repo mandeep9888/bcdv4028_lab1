@@ -41,3 +41,8 @@ As part of this contract, we are checking if address has code associated with it
 ![EOA Code check ](https://github.com/mandeep9888/bcdv4028_lab1/blob/49f6bf5dde22903d20c3e4bfc10961f7c2e32bb3/EOA_codecheck.png)
 
 EOA address is passed and function is returning false in this case
+
+## Delegate Call lab
+
+![EOA Code check ](https://github.com/mandeep9888/bcdv4028_lab1/blob/3913c1f59dba2800be5eff48fa5421f0da63d6be/delegateCall.png)
+
